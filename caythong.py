@@ -72,7 +72,7 @@ for i in range(200):
     backward(b)
 
 t.color("dark red", "red") 
-t.write("Merry Christmas dat", align="center", font=("Comic Sans MS", 40, "bold"))  # 定义文字、位置、字体、大小
+t.write("Merry Christmas Anh Minh", align="center", font=("Comic Sans MS", 40, "bold"))  # 定义文字、位置、字体、大小
 
 
 def drawsnow():  
